@@ -27,3 +27,4 @@ def reverse_array(array5)
   array5.reverse 
 end
 array6 = 
+yield
