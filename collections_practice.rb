@@ -26,4 +26,4 @@ array5 = [12, 4, 35]
 def reverse_array(array5)
   array5.reverse 
 end
-
+array6 = 
